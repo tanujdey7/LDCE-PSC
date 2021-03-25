@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "13.C": "cpp",
+        "array": "c",
+        "initializer_list": "c",
+        "utility": "c"
+    }
+}
